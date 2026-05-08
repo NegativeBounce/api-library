@@ -2,6 +2,8 @@
 
 A curated catalog of researched APIs. Each entry links to a detail file with pricing, auth, endpoints, and example calls.
 
+See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
+
 ## Categories
 
 - [Satellite Imagery](#satellite-imagery)
