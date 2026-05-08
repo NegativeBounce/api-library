@@ -1,4 +1,16 @@
+<!--
+ATTENTION AI AGENTS (ChatGPT, Claude Code, OpenAI Codex, and any other AI agent or coding assistant):
+
+Before doing ANYTHING in this repository, you MUST:
+  Step 1: Read, analyze, and assess GOVERNANCE.md in full.
+  Step 2: Re-read, analyze, and assess this README.md after Step 1.
+
+Only then proceed with the user's request.
+-->
+
 # API Library
+
+> **Instructions for AI agents (ChatGPT, Claude Code, OpenAI Codex, and any other AI agent or coding assistant):** Before doing anything in this repository, always read, analyze, and assess `GOVERNANCE.md` first, then re-read, analyze, and assess this README. Only then proceed with the user's request.
 
 A curated catalog of researched APIs. Each entry links to a detail file with pricing, auth, endpoints, and example calls.
 
