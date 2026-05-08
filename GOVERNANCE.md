@@ -1,8 +1,20 @@
+<!--
+ATTENTION AI AGENTS (ChatGPT, Claude Code, OpenAI Codex, and any other AI agent or coding assistant):
+
+You are reading the canonical rules document for this repository. Before doing ANYTHING here, you MUST:
+  Step 1: Read, analyze, and assess this entire GOVERNANCE.md file.
+  Step 2: Read, analyze, and assess README.md after Step 1.
+
+Only then proceed with the user's request.
+-->
+
 # Governance
 
 ```
 governance-version: 2026-05-07
 ```
+
+> **Instructions for AI agents (ChatGPT, Claude Code, OpenAI Codex, and any other AI agent or coding assistant):** You are reading the canonical rules document for this repository. Read, analyze, and assess this entire file, then read `README.md`, before doing anything in this repository.
 
 Rules for any AI agent (Claude, ChatGPT, Claude Code, OpenAI Codex) or human contributor working on this repository.
 
