@@ -18,9 +18,23 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [GNSS Interference](#gnss-interference)
 - [Satellite Imagery](#satellite-imagery)
 
 ---
+
+## GNSS Interference
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Aireon AireonVECTOR | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/gnss-interference/aireon-vector.md) |
+| Flightradar24 | Freemium | API Token (Bearer) | 2026-05-07 | [→](apis/gnss-interference/flightradar24.md) |
+| GPSJAM | Free | None | 2026-05-07 | [→](apis/gnss-interference/gpsjam.md) |
+| GPSwise | Freemium | API Key | 2026-05-07 | [→](apis/gnss-interference/gpswise.md) |
+| Hidden Level | Enterprise | Customer-provisioned | 2026-05-07 | [→](apis/gnss-interference/hidden-level.md) |
+| OPSGROUP | Paid | Member login | 2026-05-07 | [→](apis/gnss-interference/opsgroup.md) |
+| Spirent GNSS | Enterprise | N/A | 2026-05-07 | [→](apis/gnss-interference/spirent-gnss.md) |
+| Zephr.xyz | Freemium | API Key | 2026-05-07 | [→](apis/gnss-interference/zephr.md) |
 
 ## Satellite Imagery
 
