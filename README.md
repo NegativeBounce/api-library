@@ -32,6 +32,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Social OSINT](#social-osint)
+- [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
 
 ---
@@ -184,6 +185,23 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Meltwater | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/social-osint/meltwater.md) |
 | Talkwalker | Enterprise | API Key | 2026-05-09 | [→](apis/social-osint/talkwalker.md) |
 | X (Twitter) API | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/social-osint/x-twitter-api.md) |
+
+## Sports Betting
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| BetsAPI | Paid | API Token | 2026-05-09 | [→](apis/sports-betting/betsapi.md) |
+| DraftKings | Free | None | 2026-05-09 | [→](apis/sports-betting/draftkings.md) |
+| FanDuel | Enterprise | Partnership | 2026-05-09 | [→](apis/sports-betting/fanduel.md) |
+| Genius Sports | Enterprise | OAuth 2.0 | 2026-05-09 | [→](apis/sports-betting/genius-sports.md) |
+| LSports OddService | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/sports-betting/lsports.md) |
+| OddsBlaze | Paid | API Key | 2026-05-09 | [→](apis/sports-betting/oddsblaze.md) |
+| OddsJam | Paid | API Key | 2026-05-09 | [→](apis/sports-betting/oddsjam.md) |
+| OpticOdds | Enterprise | API Key | 2026-05-09 | [→](apis/sports-betting/opticodds.md) |
+| Pinnacle | Enterprise | HTTP Basic | 2026-05-09 | [→](apis/sports-betting/pinnacle.md) |
+| SportsGameOdds | Freemium | API Key | 2026-05-09 | [→](apis/sports-betting/sportsgameodds.md) |
+| Sportradar Odds Comparison | Enterprise | API Key | 2026-05-09 | [→](apis/sports-betting/sportradar-odds.md) |
+| The Odds API | Freemium | API Key | 2026-05-09 | [→](apis/sports-betting/the-odds-api.md) |
 
 ## Tides & Currents
 
