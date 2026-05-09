@@ -18,12 +18,23 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [Dark Vessel Detection](#dark-vessel-detection)
 - [GNSS Interference](#gnss-interference)
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
 - [Satellite Imagery](#satellite-imagery)
 
 ---
+
+## Dark Vessel Detection
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| HawkEye 360 | Enterprise | OAuth 2.0 / API Key | 2026-05-09 | [→](apis/dark-vessel-detection/hawkeye-360.md) |
+| Pole Star PurpleTRAC | Paid | API Key | 2026-05-09 | [→](apis/dark-vessel-detection/pole-star-purpletrac.md) |
+| Skylight | Free | Login (account) | 2026-05-09 | [→](apis/dark-vessel-detection/skylight.md) |
+| SynMax Theia | Paid | API Key | 2026-05-09 | [→](apis/dark-vessel-detection/synmax-theia.md) |
+| Windward | Enterprise | Bearer token | 2026-05-09 | [→](apis/dark-vessel-detection/windward.md) |
 
 ## GNSS Interference
 
