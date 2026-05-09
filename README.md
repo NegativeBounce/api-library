@@ -20,6 +20,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
+- [Environmental](#environmental)
 - [Geopolitical Risk](#geopolitical-risk)
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
@@ -54,6 +55,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Skylight | Free | Login (account) | 2026-05-09 | [→](apis/dark-vessel-detection/skylight.md) |
 | SynMax Theia | Paid | API Key | 2026-05-09 | [→](apis/dark-vessel-detection/synmax-theia.md) |
 | Windward | Enterprise | Bearer token | 2026-05-09 | [→](apis/dark-vessel-detection/windward.md) |
+
+## Environmental
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Cerulean (SkyTruth) | Free | API Token | 2026-05-09 | [→](apis/environmental/cerulean.md) |
+| EMSA CleanSeaNet | Restricted | Authority login | 2026-05-09 | [→](apis/environmental/emsa-cleanseanet.md) |
+| NASA EOSDIS Earthdata | Free | Earthdata Login | 2026-05-09 | [→](apis/environmental/nasa-earthdata.md) |
+| SkyTruth | Free | None / Token | 2026-05-09 | [→](apis/environmental/skytruth.md) |
 
 ## Geopolitical Risk
 
