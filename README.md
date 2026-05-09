@@ -20,6 +20,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
+- [Geopolitical Risk](#geopolitical-risk)
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
@@ -48,6 +49,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Skylight | Free | Login (account) | 2026-05-09 | [→](apis/dark-vessel-detection/skylight.md) |
 | SynMax Theia | Paid | API Key | 2026-05-09 | [→](apis/dark-vessel-detection/synmax-theia.md) |
 | Windward | Enterprise | Bearer token | 2026-05-09 | [→](apis/dark-vessel-detection/windward.md) |
+
+## Geopolitical Risk
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Dragonfly Intelligence | Enterprise | API Key | 2026-05-09 | [→](apis/geopolitical-risk/dragonfly-intelligence.md) |
+| Kharon | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/geopolitical-risk/kharon.md) |
+| RANE | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/geopolitical-risk/rane.md) |
+| Sayari | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/geopolitical-risk/sayari.md) |
+| Verisk Maplecroft | Enterprise | API Key | 2026-05-09 | [→](apis/geopolitical-risk/verisk-maplecroft.md) |
 
 ## GNSS Interference
 
