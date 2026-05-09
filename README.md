@@ -26,6 +26,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
 - [News](#news)
+- [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Social OSINT](#social-osint)
 - [Tides & Currents](#tides--currents)
@@ -118,6 +119,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
+
+## Sanctions
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| ComplyAdvantage | Paid | API Key / OAuth | 2026-05-09 | [→](apis/sanctions/complyadvantage.md) |
+| Dow Jones Risk & Compliance | Enterprise | API Key | 2026-05-09 | [→](apis/sanctions/dow-jones-risk-compliance.md) |
+| LSEG World-Check One | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/sanctions/lseg-world-check.md) |
+| OFAC Sanctions List Service | Free | None | 2026-05-09 | [→](apis/sanctions/ofac-sanctions-list-service.md) |
+| OpenSanctions | Freemium | API Key | 2026-05-09 | [→](apis/sanctions/opensanctions.md) |
 
 ## Satellite Imagery
 
