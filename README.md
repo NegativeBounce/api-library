@@ -24,6 +24,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
 - [Satellite Imagery](#satellite-imagery)
+- [Tides & Currents](#tides--currents)
 
 ---
 
@@ -97,3 +98,12 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | SkyWatch EarthCache | Paid | API Key | 2026-05-07 | [→](apis/satellite-imagery/skywatch-earthcache.md) |
 | UP42 | Paid | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/up42.md) |
 | Vantor Hub (Maxar) | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/satellite-imagery/vantor-hub.md) |
+
+## Tides & Currents
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| NOAA CO-OPS Tides & Currents | Free | None | 2026-05-09 | [→](apis/tides-currents/noaa-tides-currents.md) |
+| Stormglass Tide | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/stormglass-tide.md) |
+| UK Admiralty Tidal API | Freemium | Subscription Key | 2026-05-09 | [→](apis/tides-currents/uk-admiralty-tidal.md) |
+| WorldTides | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/worldtides.md) |
