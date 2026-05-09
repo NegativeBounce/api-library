@@ -142,8 +142,11 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | AllAfrica | Free | None | 2026-05-09 | [→](apis/news/allafrica.md) |
 | Andina (English) | Free | None | 2026-05-09 | [→](apis/news/andina.md) |
 | Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
+| Breaking Belize News | Free | None | 2026-05-09 | [→](apis/news/breaking-belize-news.md) |
 | Buenos Aires Times | Free | None | 2026-05-09 | [→](apis/news/buenos-aires-times.md) |
+| Confidencial | Free | None | 2026-05-09 | [→](apis/news/confidencial.md) |
 | Daily Maverick | Free | None | 2026-05-09 | [→](apis/news/daily-maverick.md) |
+| El Faro English | Free | None | 2026-05-09 | [→](apis/news/el-faro.md) |
 | Focus Taiwan (CNA) | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/focus-taiwan.md) |
 | MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
@@ -152,6 +155,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | News24 | Free | None | 2026-05-09 | [→](apis/news/news24.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
+| Newsroom Panama | Free | None | 2026-05-09 | [→](apis/news/newsroom-panama.md) |
 | NHK World-Japan | Free | None | 2026-05-09 | [→](apis/news/nhk-world.md) |
 | Nikkei Asia | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/nikkei-asia.md) |
 | NK News | Paid | Subscription | 2026-05-09 | [→](apis/news/nk-news.md) |
@@ -163,6 +167,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | The Brazilian Report | Paid | Subscription | 2026-05-09 | [→](apis/news/brazilian-report.md) |
 | The National (UAE) | Free | None | 2026-05-09 | [→](apis/news/the-national.md) |
 | The Rio Times | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/rio-times.md) |
+| The Tico Times | Free | None | 2026-05-09 | [→](apis/news/tico-times.md) |
 | The Times of Israel | Free | None | 2026-05-09 | [→](apis/news/times-of-israel.md) |
 | Yonhap News (English) | Freemium | None / Contract | 2026-05-09 | [→](apis/news/yonhap-news.md) |
 
