@@ -25,6 +25,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
+- [News](#news)
 - [Satellite Imagery](#satellite-imagery)
 - [Tides & Currents](#tides--currents)
 
@@ -106,6 +107,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | MAST | Enterprise | N/A (advisory) | 2026-05-09 | [→](apis/maritime-security/mast.md) |
 | ReCAAP ISC | Free | None | 2026-05-09 | [→](apis/maritime-security/recaap-isc.md) |
 | Risk Intelligence | Enterprise | Login (portal) | 2026-05-09 | [→](apis/maritime-security/risk-intelligence.md) |
+
+## News
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
+| MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
+| Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
+| NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
+| Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
 
 ## Satellite Imagery
 
