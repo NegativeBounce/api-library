@@ -18,6 +18,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
@@ -27,6 +28,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Tides & Currents](#tides--currents)
 
 ---
+
+## Conflict Events
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| ACLED | Freemium | API Key | 2026-05-09 | [→](apis/conflict-events/acled.md) |
+| Dataminr Pulse | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/conflict-events/dataminr-pulse.md) |
+| Factal | Paid | API Key / OAuth | 2026-05-09 | [→](apis/conflict-events/factal.md) |
+| GDELT | Free | None | 2026-05-09 | [→](apis/conflict-events/gdelt.md) |
+| Janes | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/conflict-events/janes.md) |
 
 ## Dark Vessel Detection
 
