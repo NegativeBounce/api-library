@@ -136,11 +136,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
+| Africanews | Free | None | 2026-05-09 | [→](apis/news/africanews.md) |
+| AllAfrica | Free | None | 2026-05-09 | [→](apis/news/allafrica.md) |
 | Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
+| Daily Maverick | Free | None | 2026-05-09 | [→](apis/news/daily-maverick.md) |
 | MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
+| News24 | Free | None | 2026-05-09 | [→](apis/news/news24.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
+| Premium Times Nigeria | Free | None | 2026-05-09 | [→](apis/news/premium-times.md) |
+| SyndiGate | Paid | API Key | 2026-05-09 | [→](apis/news/syndigate.md) |
 
 ## Port State Control
 
