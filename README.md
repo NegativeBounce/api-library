@@ -140,13 +140,19 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | AllAfrica | Free | None | 2026-05-09 | [→](apis/news/allafrica.md) |
 | Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
 | Daily Maverick | Free | None | 2026-05-09 | [→](apis/news/daily-maverick.md) |
+| Focus Taiwan (CNA) | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/focus-taiwan.md) |
 | MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
 | News24 | Free | None | 2026-05-09 | [→](apis/news/news24.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
+| NHK World-Japan | Free | None | 2026-05-09 | [→](apis/news/nhk-world.md) |
+| Nikkei Asia | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/nikkei-asia.md) |
+| NK News | Paid | Subscription | 2026-05-09 | [→](apis/news/nk-news.md) |
 | Premium Times Nigeria | Free | None | 2026-05-09 | [→](apis/news/premium-times.md) |
+| South China Morning Post | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/scmp.md) |
 | SyndiGate | Paid | API Key | 2026-05-09 | [→](apis/news/syndigate.md) |
+| Yonhap News (English) | Freemium | None / Contract | 2026-05-09 | [→](apis/news/yonhap-news.md) |
 
 ## Port State Control
 
