@@ -26,6 +26,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
 - [News](#news)
+- [Port State Control](#port-state-control)
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Social OSINT](#social-osint)
@@ -119,6 +120,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
+
+## Port State Control
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Equasis | Free | Account login | 2026-05-09 | [→](apis/port-state-control/equasis.md) |
+| Paris MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/paris-mou.md) |
+| S&P Global Maritime | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/port-state-control/sp-global-maritime.md) |
+| Tokyo MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/tokyo-mou.md) |
 
 ## Sanctions
 
