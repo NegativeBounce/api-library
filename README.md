@@ -27,6 +27,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Maritime Security](#maritime-security)
 - [News](#news)
 - [Satellite Imagery](#satellite-imagery)
+- [Social OSINT](#social-osint)
 - [Tides & Currents](#tides--currents)
 
 ---
@@ -131,6 +132,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | SkyWatch EarthCache | Paid | API Key | 2026-05-07 | [→](apis/satellite-imagery/skywatch-earthcache.md) |
 | UP42 | Paid | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/up42.md) |
 | Vantor Hub (Maxar) | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/satellite-imagery/vantor-hub.md) |
+
+## Social OSINT
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Brandwatch | Enterprise | API Key | 2026-05-09 | [→](apis/social-osint/brandwatch.md) |
+| Echosec by Flashpoint | Enterprise | API Key | 2026-05-09 | [→](apis/social-osint/echosec-flashpoint.md) |
+| LifeRaft Navigator | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/social-osint/liferaft-navigator.md) |
+| Meltwater | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/social-osint/meltwater.md) |
+| Talkwalker | Enterprise | API Key | 2026-05-09 | [→](apis/social-osint/talkwalker.md) |
+| X (Twitter) API | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/social-osint/x-twitter-api.md) |
 
 ## Tides & Currents
 
