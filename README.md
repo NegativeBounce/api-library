@@ -19,6 +19,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 ## Categories
 
 - [GNSS Interference](#gnss-interference)
+- [Maritime AIS](#maritime-ais)
 - [Satellite Imagery](#satellite-imagery)
 
 ---
@@ -35,6 +36,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | OPSGROUP | Paid | Member login | 2026-05-07 | [→](apis/gnss-interference/opsgroup.md) |
 | Spirent GNSS | Enterprise | N/A | 2026-05-07 | [→](apis/gnss-interference/spirent-gnss.md) |
 | Zephr.xyz | Freemium | API Key | 2026-05-07 | [→](apis/gnss-interference/zephr.md) |
+
+## Maritime AIS
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| AISStream.io | Free | API Key | 2026-05-09 | [→](apis/maritime-ais/aisstream.md) |
+| Datalastic | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/datalastic.md) |
+| FleetMon | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/fleetmon.md) |
+| MarineTraffic | Enterprise | API Key | 2026-05-09 | [→](apis/maritime-ais/marinetraffic.md) |
+| Spire Maritime | Enterprise | OAuth 2.0 / API Key | 2026-05-09 | [→](apis/maritime-ais/spire-maritime.md) |
+| VesselFinder | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/vesselfinder.md) |
 
 ## Satellite Imagery
 
