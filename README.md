@@ -20,6 +20,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [GNSS Interference](#gnss-interference)
+- [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
 - [Satellite Imagery](#satellite-imagery)
@@ -48,6 +49,18 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | OPSGROUP | Paid | Member login | 2026-05-07 | [→](apis/gnss-interference/opsgroup.md) |
 | Spirent GNSS | Enterprise | N/A | 2026-05-07 | [→](apis/gnss-interference/spirent-gnss.md) |
 | Zephr.xyz | Freemium | API Key | 2026-05-07 | [→](apis/gnss-interference/zephr.md) |
+
+## Marine Weather
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Meteomatics | Paid | Basic / OAuth | 2026-05-09 | [→](apis/marine-weather/meteomatics.md) |
+| NOAA / NWS | Free | None (User-Agent) | 2026-05-09 | [→](apis/marine-weather/noaa-nws.md) |
+| Open-Meteo Marine | Freemium | None / API Key | 2026-05-09 | [→](apis/marine-weather/open-meteo-marine.md) |
+| Stormglass | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/stormglass.md) |
+| Tomorrow.io | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/tomorrow-io.md) |
+| Visual Crossing | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/visual-crossing.md) |
+| Windy API | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/windy-api.md) |
 
 ## Maritime AIS
 
