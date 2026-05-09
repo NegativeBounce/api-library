@@ -137,12 +137,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
 | Africanews | Free | None | 2026-05-09 | [→](apis/news/africanews.md) |
+| Al Arabiya English | Free | None | 2026-05-09 | [→](apis/news/al-arabiya.md) |
+| Al Jazeera English | Free | None | 2026-05-09 | [→](apis/news/al-jazeera.md) |
 | AllAfrica | Free | None | 2026-05-09 | [→](apis/news/allafrica.md) |
 | Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
 | Daily Maverick | Free | None | 2026-05-09 | [→](apis/news/daily-maverick.md) |
 | Focus Taiwan (CNA) | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/focus-taiwan.md) |
 | MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
+| Middle East Eye | Free | None | 2026-05-09 | [→](apis/news/middle-east-eye.md) |
 | News24 | Free | None | 2026-05-09 | [→](apis/news/news24.md) |
 | NewsAPI.org | Freemium | API Key | 2026-05-09 | [→](apis/news/newsapi.md) |
 | Newscatcher | Freemium | API Key | 2026-05-09 | [→](apis/news/newscatcher.md) |
@@ -152,6 +155,9 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Premium Times Nigeria | Free | None | 2026-05-09 | [→](apis/news/premium-times.md) |
 | South China Morning Post | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/scmp.md) |
 | SyndiGate | Paid | API Key | 2026-05-09 | [→](apis/news/syndigate.md) |
+| Tehran Times | Free | None | 2026-05-09 | [→](apis/news/tehran-times.md) |
+| The National (UAE) | Free | None | 2026-05-09 | [→](apis/news/the-national.md) |
+| The Times of Israel | Free | None | 2026-05-09 | [→](apis/news/times-of-israel.md) |
 | Yonhap News (English) | Freemium | None / Contract | 2026-05-09 | [→](apis/news/yonhap-news.md) |
 
 ## Port State Control
