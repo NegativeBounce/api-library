@@ -25,6 +25,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
 - [Maritime Security](#maritime-security)
+- [Navigational Warnings](#navigational-warnings)
 - [News](#news)
 - [Port State Control](#port-state-control)
 - [Sanctions](#sanctions)
@@ -110,6 +111,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | MAST | Enterprise | N/A (advisory) | 2026-05-09 | [→](apis/maritime-security/mast.md) |
 | ReCAAP ISC | Free | None | 2026-05-09 | [→](apis/maritime-security/recaap-isc.md) |
 | Risk Intelligence | Enterprise | Login (portal) | 2026-05-09 | [→](apis/maritime-security/risk-intelligence.md) |
+
+## Navigational Warnings
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| JHOD NAVAREA XI | Free | None | 2026-05-09 | [→](apis/navigational-warnings/jhod-navarea-xi.md) |
+| NGA Maritime Safety Information | Free | None | 2026-05-09 | [→](apis/navigational-warnings/nga-msi.md) |
+| SeaLagom | Freemium | API Token | 2026-05-09 | [→](apis/navigational-warnings/sealagom.md) |
+| UKHO Admiralty MSI | Freemium | None | 2026-05-09 | [→](apis/navigational-warnings/ukho-msi.md) |
 
 ## News
 
