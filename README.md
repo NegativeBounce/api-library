@@ -31,6 +31,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
 - [Port State Control](#port-state-control)
+- [RF Monitoring](#rf-monitoring)
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Social OSINT](#social-osint)
@@ -208,6 +209,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Paris MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/paris-mou.md) |
 | S&P Global Maritime | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/port-state-control/sp-global-maritime.md) |
 | Tokyo MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/tokyo-mou.md) |
+
+## RF Monitoring
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Aaronia SPECTRAN / RTSA-Suite PRO | Paid | Local (no cloud auth) | 2026-05-09 | [→](apis/rf-monitoring/aaronia-spectran.md) |
+| CRFS RFeye | Enterprise | Customer-provisioned | 2026-05-09 | [→](apis/rf-monitoring/crfs-rfeye.md) |
+| FCC ULS | Free | None | 2026-05-09 | [→](apis/rf-monitoring/fcc-uls.md) |
+| KiwiSDR | Free | None (public Kiwis) | 2026-05-09 | [→](apis/rf-monitoring/kiwisdr.md) |
+| Kratos OpenSpace Platform | Enterprise | Customer-provisioned | 2026-05-09 | [→](apis/rf-monitoring/kratos-openspace.md) |
 
 ## Sanctions
 
