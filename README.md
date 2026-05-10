@@ -31,6 +31,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
 - [Port State Control](#port-state-control)
+- [RF Intelligence Feeds](#rf-intelligence-feeds)
 - [RF Monitoring](#rf-monitoring)
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
@@ -210,6 +211,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Paris MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/paris-mou.md) |
 | S&P Global Maritime | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/port-state-control/sp-global-maritime.md) |
 | Tokyo MoU | Free | None | 2026-05-09 | [→](apis/port-state-control/tokyo-mou.md) |
+
+## RF Intelligence Feeds
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Aurora Insight | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/aurora-insight.md) |
+| Horizon Technologies Amber | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/horizon-amber.md) |
+| Kleos Space | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/kleos-space.md) |
+| Unseenlabs | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/unseenlabs.md) |
 
 ## RF Monitoring
 
