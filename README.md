@@ -18,6 +18,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [Cellular Intelligence](#cellular-intelligence)
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [Environmental](#environmental)
@@ -37,6 +38,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
+
+## Cellular Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Combain Location API | Freemium | API Key | 2026-05-09 | [→](apis/cellular-intelligence/combain.md) |
+| Numverify | Freemium | API Key | 2026-05-09 | [→](apis/cellular-intelligence/numverify.md) |
+| OpenCelliD | Freemium | API Token | 2026-05-09 | [→](apis/cellular-intelligence/opencellid.md) |
+| Twilio Lookup | Paid | Account SID / Auth Token | 2026-05-09 | [→](apis/cellular-intelligence/twilio-lookup.md) |
+| Unwired Labs LocationAPI | Freemium | API Token | 2026-05-09 | [→](apis/cellular-intelligence/unwiredlabs-locationapi.md) |
 
 ## Conflict Events
 
