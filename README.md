@@ -34,6 +34,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [RF Monitoring](#rf-monitoring)
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
+- [Satellite Tracking](#satellite-tracking)
 - [Social OSINT](#social-osint)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
@@ -243,6 +244,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | SkyWatch EarthCache | Paid | API Key | 2026-05-07 | [→](apis/satellite-imagery/skywatch-earthcache.md) |
 | UP42 | Paid | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/up42.md) |
 | Vantor Hub (Maxar) | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/satellite-imagery/vantor-hub.md) |
+
+## Satellite Tracking
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| CelesTrak | Free | None | 2026-05-09 | [→](apis/satellite-tracking/celestrak.md) |
+| ESA DISCOSweb | Free | Bearer token | 2026-05-09 | [→](apis/satellite-tracking/discosweb.md) |
+| LeoLabs | Enterprise | API Key | 2026-05-09 | [→](apis/satellite-tracking/leolabs.md) |
+| N2YO | Free | API Key | 2026-05-09 | [→](apis/satellite-tracking/n2yo.md) |
+| Slingshot Beacon | Enterprise | API Key | 2026-05-09 | [→](apis/satellite-tracking/slingshot-beacon.md) |
+| Space-Track.org | Free | Username/password | 2026-05-09 | [→](apis/satellite-tracking/space-track.md) |
 
 ## Social OSINT
 
