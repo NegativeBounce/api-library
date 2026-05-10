@@ -34,6 +34,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Social OSINT](#social-osint)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
+- [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
 
@@ -247,3 +248,13 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Stormglass Tide | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/stormglass-tide.md) |
 | UK Admiralty Tidal API | Freemium | Subscription Key | 2026-05-09 | [→](apis/tides-currents/uk-admiralty-tidal.md) |
 | WorldTides | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/worldtides.md) |
+
+## Wi-Fi Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| beaconDB | Free | None (User-Agent) | 2026-05-09 | [→](apis/wifi-intelligence/beacondb.md) |
+| Google Maps Geolocation API | Paid | API Key / OAuth 2.0 | 2026-05-09 | [→](apis/wifi-intelligence/google-geolocation.md) |
+| HERE Network Positioning | Freemium | API Key / OAuth 2.0 | 2026-05-09 | [→](apis/wifi-intelligence/here-network-positioning.md) |
+| Skyhook Precision Location | Enterprise | API Key | 2026-05-09 | [→](apis/wifi-intelligence/skyhook.md) |
+| WiGLE | Freemium | Basic Auth (encoded token) | 2026-05-09 | [→](apis/wifi-intelligence/wigle.md) |
