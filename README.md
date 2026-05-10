@@ -142,14 +142,19 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | AllAfrica | Free | None | 2026-05-09 | [→](apis/news/allafrica.md) |
 | Andina (English) | Free | None | 2026-05-09 | [→](apis/news/andina.md) |
 | Aylien News API (Quantexa) | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/news/aylien-quantexa.md) |
+| Balkan Insight (BIRN) | Free | None | 2026-05-09 | [→](apis/news/balkan-insight.md) |
 | Breaking Belize News | Free | None | 2026-05-09 | [→](apis/news/breaking-belize-news.md) |
 | Buenos Aires Times | Free | None | 2026-05-09 | [→](apis/news/buenos-aires-times.md) |
 | Confidencial | Free | None | 2026-05-09 | [→](apis/news/confidencial.md) |
 | Daily Maverick | Free | None | 2026-05-09 | [→](apis/news/daily-maverick.md) |
+| Deutsche Welle (DW) | Free | None | 2026-05-09 | [→](apis/news/dw.md) |
 | El Faro English | Free | None | 2026-05-09 | [→](apis/news/el-faro.md) |
 | Focus Taiwan (CNA) | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/focus-taiwan.md) |
+| France 24 | Free | None | 2026-05-09 | [→](apis/news/france-24.md) |
+| Kyiv Independent | Free | None | 2026-05-09 | [→](apis/news/kyiv-independent.md) |
 | MarketAux | Freemium | API Key | 2026-05-09 | [→](apis/news/marketaux.md) |
 | Mediastack | Freemium | API Key | 2026-05-09 | [→](apis/news/mediastack.md) |
+| Meduza | Free | None | 2026-05-09 | [→](apis/news/meduza.md) |
 | MercoPress | Free | None | 2026-05-09 | [→](apis/news/mercopress.md) |
 | Middle East Eye | Free | None | 2026-05-09 | [→](apis/news/middle-east-eye.md) |
 | News24 | Free | None | 2026-05-09 | [→](apis/news/news24.md) |
@@ -159,9 +164,11 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | NHK World-Japan | Free | None | 2026-05-09 | [→](apis/news/nhk-world.md) |
 | Nikkei Asia | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/nikkei-asia.md) |
 | NK News | Paid | Subscription | 2026-05-09 | [→](apis/news/nk-news.md) |
+| Notes from Poland | Free | None | 2026-05-09 | [→](apis/news/notes-from-poland.md) |
 | Premium Times Nigeria | Free | None | 2026-05-09 | [→](apis/news/premium-times.md) |
 | South China Morning Post | Freemium | None / Subscription | 2026-05-09 | [→](apis/news/scmp.md) |
 | SyndiGate | Paid | API Key | 2026-05-09 | [→](apis/news/syndigate.md) |
+| TASS English | Free | None | 2026-05-09 | [→](apis/news/tass.md) |
 | Tehran Times | Free | None | 2026-05-09 | [→](apis/news/tehran-times.md) |
 | TeleSUR English | Free | None | 2026-05-09 | [→](apis/news/telesur.md) |
 | The Brazilian Report | Paid | Subscription | 2026-05-09 | [→](apis/news/brazilian-report.md) |
