@@ -18,6 +18,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [Bluetooth Intelligence](#bluetooth-intelligence)
 - [Cellular Intelligence](#cellular-intelligence)
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
@@ -38,6 +39,15 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
+
+## Bluetooth Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Estimote | Paid | App ID / App Token | 2026-05-09 | [→](apis/bluetooth-intelligence/estimote.md) |
+| Inpixon RTLS | Enterprise | API Key | 2026-05-09 | [→](apis/bluetooth-intelligence/inpixon.md) |
+| Kontakt.io (Kio Cloud) | Paid | API Key (Bearer) | 2026-05-09 | [→](apis/bluetooth-intelligence/kontakt-io.md) |
+| Quuppa Intelligent Locating System | Enterprise | API Key (token) | 2026-05-09 | [→](apis/bluetooth-intelligence/quuppa.md) |
 
 ## Cellular Intelligence
 
