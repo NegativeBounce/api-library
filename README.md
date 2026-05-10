@@ -216,9 +216,13 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
+| ADS-B Exchange | Paid | API Key (RapidAPI) | 2026-05-10 | [→](apis/rf-intelligence-feeds/adsb-exchange.md) |
+| adsb.fi | Free | None | 2026-05-10 | [→](apis/rf-intelligence-feeds/adsb-fi.md) |
 | Aurora Insight | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/aurora-insight.md) |
+| FlightAware Firehose | Enterprise | Username/password (TCP/SSL) | 2026-05-10 | [→](apis/rf-intelligence-feeds/flightaware-firehose.md) |
 | Horizon Technologies Amber | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/horizon-amber.md) |
 | Kleos Space | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/kleos-space.md) |
+| OpenSky Network | Free | OAuth 2.0 | 2026-05-10 | [→](apis/rf-intelligence-feeds/opensky-network.md) |
 | Unseenlabs | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/unseenlabs.md) |
 
 ## RF Monitoring
