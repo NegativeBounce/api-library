@@ -219,10 +219,13 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | ADS-B Exchange | Paid | API Key (RapidAPI) | 2026-05-10 | [→](apis/rf-intelligence-feeds/adsb-exchange.md) |
 | adsb.fi | Free | None | 2026-05-10 | [→](apis/rf-intelligence-feeds/adsb-fi.md) |
 | Aurora Insight | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/aurora-insight.md) |
+| CDDIS / IGS | Free | NASA Earthdata Login | 2026-05-10 | [→](apis/rf-intelligence-feeds/cddis-igs.md) |
 | FlightAware Firehose | Enterprise | Username/password (TCP/SSL) | 2026-05-10 | [→](apis/rf-intelligence-feeds/flightaware-firehose.md) |
 | Horizon Technologies Amber | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/horizon-amber.md) |
 | Kleos Space | Discontinued | N/A | 2026-05-10 | [→](apis/rf-intelligence-feeds/kleos-space.md) |
 | OpenSky Network | Free | OAuth 2.0 | 2026-05-10 | [→](apis/rf-intelligence-feeds/opensky-network.md) |
+| SatNOGS | Free | None / API Token | 2026-05-10 | [→](apis/rf-intelligence-feeds/satnogs.md) |
+| Umbra | Paid | Bearer token | 2026-05-10 | [→](apis/rf-intelligence-feeds/umbra.md) |
 | Unseenlabs | Enterprise | Customer-provisioned | 2026-05-10 | [→](apis/rf-intelligence-feeds/unseenlabs.md) |
 
 ## RF Monitoring
