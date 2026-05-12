@@ -36,6 +36,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Satellite Tracking](#satellite-tracking)
+- [Semiconductor Intelligence](#semiconductor-intelligence)
 - [Social OSINT](#social-osint)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
@@ -272,6 +273,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | N2YO | Free | API Key | 2026-05-09 | [→](apis/satellite-tracking/n2yo.md) |
 | Slingshot Beacon | Enterprise | API Key | 2026-05-09 | [→](apis/satellite-tracking/slingshot-beacon.md) |
 | Space-Track.org | Free | Username/password | 2026-05-09 | [→](apis/satellite-tracking/space-track.md) |
+
+## Semiconductor Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Arrow Electronics | Free | API Key + Login | 2026-05-12 | [→](apis/semiconductor-intelligence/arrow-electronics.md) |
+| Digi-Key | Free | OAuth 2.0 | 2026-05-12 | [→](apis/semiconductor-intelligence/digi-key.md) |
+| Element14 / Farnell / Newark | Free | API Key / JWT | 2026-05-12 | [→](apis/semiconductor-intelligence/element14.md) |
+| Mouser | Free | API Key | 2026-05-12 | [→](apis/semiconductor-intelligence/mouser.md) |
+| Nexar (Octopart) | Freemium | OAuth 2.0 | 2026-05-12 | [→](apis/semiconductor-intelligence/nexar.md) |
 
 ## Social OSINT
 
