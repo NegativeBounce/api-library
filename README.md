@@ -20,6 +20,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 - [Bluetooth Intelligence](#bluetooth-intelligence)
 - [Cellular Intelligence](#cellular-intelligence)
+- [Crime Intelligence](#crime-intelligence)
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [Environmental](#environmental)
@@ -34,6 +35,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Port State Control](#port-state-control)
 - [RF Intelligence Feeds](#rf-intelligence-feeds)
 - [RF Monitoring](#rf-monitoring)
+- [Regional Security Feeds](#regional-security-feeds)
 - [Sanctions](#sanctions)
 - [Satellite Imagery](#satellite-imagery)
 - [Satellite Tracking](#satellite-tracking)
@@ -63,6 +65,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | OpenCelliD | Freemium | API Token | 2026-05-09 | [→](apis/cellular-intelligence/opencellid.md) |
 | Twilio Lookup | Paid | Account SID / Auth Token | 2026-05-09 | [→](apis/cellular-intelligence/twilio-lookup.md) |
 | Unwired Labs LocationAPI | Freemium | API Token | 2026-05-09 | [→](apis/cellular-intelligence/unwiredlabs-locationapi.md) |
+
+## Crime Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Europol Newsroom RSS | Free | None | 2026-05-13 | [→](apis/crime-intelligence/europol-newsroom.md) |
+| FBI Wanted API | Free | None | 2026-05-13 | [→](apis/crime-intelligence/fbi-wanted.md) |
+| Interpol Notices API | Free | None | 2026-05-13 | [→](apis/crime-intelligence/interpol-red-notices.md) |
+| OSAC Country Security Reports | Free | Account (free) | 2026-05-13 | [→](apis/crime-intelligence/osac.md) |
+| UK Police Data API | Free | None | 2026-05-13 | [→](apis/crime-intelligence/uk-police-api.md) |
+| U.S. State Dept Travel Advisories RSS | Free | None | 2026-05-13 | [→](apis/crime-intelligence/us-state-dept-travel-advisories.md) |
 
 ## Conflict Events
 
@@ -251,6 +264,21 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | FCC ULS | Free | None | 2026-05-09 | [→](apis/rf-monitoring/fcc-uls.md) |
 | KiwiSDR | Free | None (public Kiwis) | 2026-05-09 | [→](apis/rf-monitoring/kiwisdr.md) |
 | Kratos OpenSpace Platform | Enterprise | Customer-provisioned | 2026-05-09 | [→](apis/rf-monitoring/kratos-openspace.md) |
+
+## Regional Security Feeds
+
+| Region | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Arabian Sea, Persian Gulf & Strait of Hormuz | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/arabian-sea-persian-gulf-strait-of-hormuz.md) |
+| East Africa & Indian Ocean | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/east-africa-indian-ocean.md) |
+| English Channel & North Sea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/english-channel-north-sea.md) |
+| Horn of Africa & Gulf of Aden | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/horn-of-africa-gulf-of-aden.md) |
+| Mediterranean & Strait of Gibraltar | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/mediterranean-strait-of-gibraltar.md) |
+| Panama Canal & Caribbean | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/panama-canal-caribbean.md) |
+| Red Sea & Suez Canal | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/red-sea-suez-canal.md) |
+| South China Sea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/south-china-sea.md) |
+| Southeast Asia & Strait of Malacca | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/southeast-asia-strait-of-malacca.md) |
+| West Africa & Gulf of Guinea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/west-africa-gulf-of-guinea.md) |
 
 ## Sanctions
 
