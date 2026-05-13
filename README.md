@@ -25,6 +25,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Conflict Events](#conflict-events)
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [Environmental](#environmental)
+- [Exposed Device Search](#exposed-device-search)
 - [Geopolitical Risk](#geopolitical-risk)
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
@@ -124,6 +125,20 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | EMSA CleanSeaNet | Restricted | Authority login | 2026-05-09 | [→](apis/environmental/emsa-cleanseanet.md) |
 | NASA EOSDIS Earthdata | Free | Earthdata Login | 2026-05-09 | [→](apis/environmental/nasa-earthdata.md) |
 | SkyTruth | Free | None / Token | 2026-05-09 | [→](apis/environmental/skytruth.md) |
+
+## Exposed Device Search
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Censys Search API | Freemium | HTTP Basic Auth (API ID + Secret) | 2026-05-13 | [→](apis/exposed-device-search/censys.md) |
+| Criminal IP | Freemium | API Key | 2026-05-13 | [→](apis/exposed-device-search/criminal-ip.md) |
+| FOFA | Freemium | Email + API Key | 2026-05-13 | [→](apis/exposed-device-search/fofa.md) |
+| GreyNoise | Freemium | API Key | 2026-05-13 | [→](apis/exposed-device-search/greynoise.md) |
+| LeakIX | Freemium | API Key | 2026-05-13 | [→](apis/exposed-device-search/leakix.md) |
+| Netlas | Freemium | Bearer Token | 2026-05-13 | [→](apis/exposed-device-search/netlas.md) |
+| Onyphe | Paid | API Key (Bearer) | 2026-05-13 | [→](apis/exposed-device-search/onyphe.md) |
+| Shodan | Freemium | API Key | 2026-05-13 | [→](apis/exposed-device-search/shodan.md) |
+| ZoomEye | Freemium | API Key | 2026-05-13 | [→](apis/exposed-device-search/zoomeye.md) |
 
 ## Geopolitical Risk
 
