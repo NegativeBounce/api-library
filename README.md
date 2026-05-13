@@ -18,6 +18,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 ## Categories
 
+- [Academic Publications](#academic-publications)
 - [Bluetooth Intelligence](#bluetooth-intelligence)
 - [Cellular Intelligence](#cellular-intelligence)
 - [Crime Intelligence](#crime-intelligence)
@@ -46,6 +47,23 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
+
+## Academic Publications
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| arXiv API | Free | None | 2026-05-13 | [→](apis/academic-publications/arxiv.md) |
+| CORE API | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/core.md) |
+| Crossref REST API | Free | None | 2026-05-13 | [→](apis/academic-publications/crossref.md) |
+| IEEE Xplore API | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/ieee-xplore.md) |
+| OpenAlex API | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/openalex.md) |
+| Papers with Code API | Free | None | 2026-05-13 | [→](apis/academic-publications/papers-with-code.md) |
+| PubMed E-utilities (NCBI) | Free | API Key | 2026-05-13 | [→](apis/academic-publications/pubmed-e-utilities.md) |
+| Scopus API (Elsevier) | Freemium | API Key + Inst. Token | 2026-05-13 | [→](apis/academic-publications/scopus.md) |
+| Semantic Scholar API | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/semantic-scholar.md) |
+| Springer Nature API | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/springer-nature.md) |
+| Unpaywall API | Free | Email (query param) | 2026-05-13 | [→](apis/academic-publications/unpaywall.md) |
+| Web of Science API (Clarivate) | Freemium | API Key | 2026-05-13 | [→](apis/academic-publications/web-of-science.md) |
 
 ## Bluetooth Intelligence
 
