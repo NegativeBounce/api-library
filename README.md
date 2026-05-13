@@ -29,6 +29,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
+- [Maritime Safety Reports](#maritime-safety-reports)
 - [Maritime Security](#maritime-security)
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
@@ -169,6 +170,23 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | MarineTraffic | Enterprise | API Key | 2026-05-09 | [→](apis/maritime-ais/marinetraffic.md) |
 | Spire Maritime | Enterprise | OAuth 2.0 / API Key | 2026-05-09 | [→](apis/maritime-ais/spire-maritime.md) |
 | VesselFinder | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/vesselfinder.md) |
+
+## Maritime Safety Reports
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Allianz Safety and Shipping Review | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/allianz-safety-shipping-review.md) |
+| CHIRP Maritime | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/chirp-maritime.md) |
+| EMSA EMCIP | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/emsa-emcip.md) |
+| Gard Loss Prevention | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/gard-loss-prevention.md) |
+| ICS Flag State Performance Table | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/ics-flag-state-table.md) |
+| IMO GISIS | Free | IMO Web Account (free) | 2026-05-13 | [→](apis/maritime-safety-reports/imo-gisis.md) |
+| IUMI Statistics | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/iumi-statistics.md) |
+| Lloyd's Register Foundation | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/lloyds-register-foundation.md) |
+| MAIB | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/maib.md) |
+| NTSB CAROL | Free | None (web) | 2026-05-13 | [→](apis/maritime-safety-reports/ntsb-carol.md) |
+| Swedish Club Loss Prevention | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/swedish-club.md) |
+| USCG Marine Casualty Data | Free | None | 2026-05-13 | [→](apis/maritime-safety-reports/uscg-marine-casualty.md) |
 
 ## Maritime Security
 
