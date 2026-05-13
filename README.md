@@ -30,6 +30,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Maritime Security](#maritime-security)
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
+- [Object Detection](#object-detection)
 - [Port State Control](#port-state-control)
 - [RF Intelligence Feeds](#rf-intelligence-feeds)
 - [RF Monitoring](#rf-monitoring)
@@ -203,6 +204,18 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | The Tico Times | Free | None | 2026-05-09 | [→](apis/news/tico-times.md) |
 | The Times of Israel | Free | None | 2026-05-09 | [→](apis/news/times-of-israel.md) |
 | Yonhap News (English) | Freemium | None / Contract | 2026-05-09 | [→](apis/news/yonhap-news.md) |
+
+## Object Detection
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Amazon Rekognition | Freemium | AWS IAM (SigV4) | 2026-05-13 | [→](apis/object-detection/amazon-rekognition.md) |
+| Azure AI Vision | Freemium | API Key | 2026-05-13 | [→](apis/object-detection/azure-ai-vision.md) |
+| Clarifai | Freemium | API Key (Bearer) | 2026-05-13 | [→](apis/object-detection/clarifai.md) |
+| Google Cloud Video Intelligence API | Freemium | OAuth 2.0 | 2026-05-13 | [→](apis/object-detection/google-cloud-video-intelligence.md) |
+| Google Cloud Vision API | Freemium | OAuth 2.0 | 2026-05-13 | [→](apis/object-detection/google-cloud-vision.md) |
+| Hugging Face Inference API | Freemium | Bearer token | 2026-05-13 | [→](apis/object-detection/hugging-face-inference.md) |
+| Roboflow | Freemium | API Key | 2026-05-13 | [→](apis/object-detection/roboflow.md) |
 
 ## Port State Control
 
