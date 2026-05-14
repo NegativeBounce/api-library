@@ -35,6 +35,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
 - [Object Detection](#object-detection)
+- [Port OT Security](#port-ot-security)
 - [Port State Control](#port-state-control)
 - [RF Intelligence Feeds](#rf-intelligence-feeds)
 - [RF Monitoring](#rf-monitoring)
@@ -280,6 +281,21 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Google Cloud Vision API | Freemium | OAuth 2.0 | 2026-05-13 | [→](apis/object-detection/google-cloud-vision.md) |
 | Hugging Face Inference API | Freemium | Bearer token | 2026-05-13 | [→](apis/object-detection/hugging-face-inference.md) |
 | Roboflow | Freemium | API Key | 2026-05-13 | [→](apis/object-detection/roboflow.md) |
+
+## Port OT Security
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Armis Centrix | Enterprise | API Key / OAuth 2.0 | 2026-05-13 | [→](apis/port-ot-security/armis-centrix.md) |
+| AVEVA PI Web API | Enterprise | Basic / Kerberos | 2026-05-13 | [→](apis/port-ot-security/aveva-pi-web-api.md) |
+| CISA ICS Advisories | Free | None | 2026-05-13 | [→](apis/port-ot-security/cisa-ics-advisories.md) |
+| Claroty Platform xDome | Enterprise | Bearer Token (JWT) | 2026-05-13 | [→](apis/port-ot-security/claroty-xdome.md) |
+| Dragos Platform | Enterprise | API Key / OAuth 2.0 | 2026-05-13 | [→](apis/port-ot-security/dragos-platform.md) |
+| Forescout eyeInspect | Enterprise | Username / Password | 2026-05-13 | [→](apis/port-ot-security/forescout-eyeinspect.md) |
+| Microsoft Defender for IoT | Freemium | Bearer Token / Azure AD | 2026-05-13 | [→](apis/port-ot-security/microsoft-defender-for-iot.md) |
+| Nozomi Networks Guardian | Enterprise | HTTP Basic Auth | 2026-05-13 | [→](apis/port-ot-security/nozomi-guardian.md) |
+| OCEANS-X (MPA Singapore) | Freemium | Registration (free) | 2026-05-13 | [→](apis/port-ot-security/oceans-x.md) |
+| Tenable OT Security | Enterprise | API Key | 2026-05-13 | [→](apis/port-ot-security/tenable-ot-security.md) |
 
 ## Port State Control
 
