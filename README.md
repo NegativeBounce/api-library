@@ -36,6 +36,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [News](#news)
 - [Object Detection](#object-detection)
 - [Port OT Security](#port-ot-security)
+- [Port Physical Security](#port-physical-security)
 - [Port State Control](#port-state-control)
 - [RF Intelligence Feeds](#rf-intelligence-feeds)
 - [RF Monitoring](#rf-monitoring)
@@ -296,6 +297,21 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Nozomi Networks Guardian | Enterprise | HTTP Basic Auth | 2026-05-13 | [→](apis/port-ot-security/nozomi-guardian.md) |
 | OCEANS-X (MPA Singapore) | Freemium | Registration (free) | 2026-05-13 | [→](apis/port-ot-security/oceans-x.md) |
 | Tenable OT Security | Enterprise | API Key | 2026-05-13 | [→](apis/port-ot-security/tenable-ot-security.md) |
+
+## Port Physical Security
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Avigilon Alta (Openpath) | Enterprise | OAuth 2.0 (API Key + JWT) | 2026-05-14 | [→](apis/port-physical-security/avigilon-alta.md) |
+| Brivo | Enterprise | OAuth 2.0 | 2026-05-14 | [→](apis/port-physical-security/brivo.md) |
+| Envoy | Freemium | OAuth 2.0 | 2026-05-14 | [→](apis/port-physical-security/envoy.md) |
+| Eptura Visitor (Proxyclick) | Paid | OAuth 2.0 | 2026-05-14 | [→](apis/port-physical-security/eptura-visitor.md) |
+| Genetec ClearID | Enterprise | OAuth 2.0 (JWT Assertion) | 2026-05-14 | [→](apis/port-physical-security/genetec-clearid.md) |
+| HID Origo | Enterprise | OAuth 2.0 (Bearer Token) | 2026-05-14 | [→](apis/port-physical-security/hid-origo.md) |
+| LenelS2 OnGuard (OpenAccess) | Enterprise | Session Token | 2026-05-14 | [→](apis/port-physical-security/lenels2-onguard.md) |
+| Sign In Enterprise (Traction Guest) | Enterprise | OAuth Token | 2026-05-14 | [→](apis/port-physical-security/sign-in-enterprise.md) |
+| Sine by Honeywell | Paid | OAuth 2.0 | 2026-05-14 | [→](apis/port-physical-security/sine.md) |
+| Verkada | Enterprise | API Key + Bearer Token | 2026-05-14 | [→](apis/port-physical-security/verkada.md) |
 
 ## Port State Control
 
