@@ -405,8 +405,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Arrow Electronics | Free | API Key + Login | 2026-05-12 | [→](apis/semiconductor-intelligence/arrow-electronics.md) |
 | Digi-Key | Free | OAuth 2.0 | 2026-05-12 | [→](apis/semiconductor-intelligence/digi-key.md) |
 | Element14 / Farnell / Newark | Free | API Key / JWT | 2026-05-12 | [→](apis/semiconductor-intelligence/element14.md) |
+| EPO Open Patent Services (OPS) | Freemium | OAuth 2.0 | 2026-05-14 | [→](apis/semiconductor-intelligence/epo-ops.md) |
+| Financial Modeling Prep | Freemium | API Key | 2026-05-14 | [→](apis/semiconductor-intelligence/financial-modeling-prep.md) |
+| FRED API | Free | API Key | 2026-05-14 | [→](apis/semiconductor-intelligence/fred.md) |
+| Lens.org API | Freemium | Bearer Token | 2026-05-14 | [→](apis/semiconductor-intelligence/lens.md) |
 | Mouser | Free | API Key | 2026-05-12 | [→](apis/semiconductor-intelligence/mouser.md) |
 | Nexar (Octopart) | Freemium | OAuth 2.0 | 2026-05-12 | [→](apis/semiconductor-intelligence/nexar.md) |
+| OECD Data API | Free | None | 2026-05-14 | [→](apis/semiconductor-intelligence/oecd-data-api.md) |
+| SEC EDGAR API | Free | None | 2026-05-14 | [→](apis/semiconductor-intelligence/sec-edgar.md) |
+| UN Comtrade API | Freemium | Subscription Key | 2026-05-14 | [→](apis/semiconductor-intelligence/un-comtrade.md) |
+| U.S. Census Bureau International Trade API | Free | None / API Key | 2026-05-14 | [→](apis/semiconductor-intelligence/us-census-international-trade.md) |
+| USPTO PatentsView API | Free | API Key | 2026-05-14 | [→](apis/semiconductor-intelligence/patentsview.md) |
 
 ## Social OSINT
 
