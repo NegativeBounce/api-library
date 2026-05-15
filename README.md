@@ -46,6 +46,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Satellite Tracking](#satellite-tracking)
 - [Semiconductor Intelligence](#semiconductor-intelligence)
 - [Social OSINT](#social-osint)
+- [Solar Lunar](#solar-lunar)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
@@ -427,6 +428,19 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Meltwater | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/social-osint/meltwater.md) |
 | Talkwalker | Enterprise | API Key | 2026-05-09 | [→](apis/social-osint/talkwalker.md) |
 | X (Twitter) API | Paid | OAuth 2.0 | 2026-05-09 | [→](apis/social-osint/x-twitter-api.md) |
+
+## Solar Lunar
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| AstronomyAPI.com | Freemium | HTTP Basic Auth | 2026-05-15 | [→](apis/solar-lunar/astronomyapi-com.md) |
+| IPGeolocation.io Astronomy API | Freemium | API Key | 2026-05-15 | [→](apis/solar-lunar/ipgeolocation-astronomy.md) |
+| Sunrise-Sunset.org | Free | None | 2026-05-15 | [→](apis/solar-lunar/sunrise-sunset-org.md) |
+| SunriseSunset.io | Free | None | 2026-05-15 | [→](apis/solar-lunar/sunrisesunset-io.md) |
+| TimeAndDate Astronomy API | Paid | API Key (signed) | 2026-05-15 | [→](apis/solar-lunar/timeanddate-astronomy.md) |
+| USNO Astronomical Applications | Free | None | 2026-05-15 | [→](apis/solar-lunar/usno-astronomical-applications.md) |
+| WeatherAPI.com | Freemium | API Key | 2026-05-15 | [→](apis/solar-lunar/weatherapi-com.md) |
+| Xweather Sun Moon | Paid | Client ID + Secret | 2026-05-15 | [→](apis/solar-lunar/xweather-sunmoon.md) |
 
 ## Sports Betting
 
