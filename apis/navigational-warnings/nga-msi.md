@@ -1,3 +1,29 @@
+> ## ⚠️ 2026-05-26 — DISCOVERY: This source DOES NOT have a public REST API
+>
+> The endpoint paths documented below (`/api/publications/asam`,
+> `/api/publications/broadcast-warn`) return **HTTP 404** when called from
+> production. Live verification on 2026-05-26 confirmed no public REST API
+> exists for NGA MSI today. The "Postman collection is the most reliable
+> up-to-date reference" note in the Endpoints section below is correct in
+> principle but the collection itself does not currently expose working
+> publicly-accessible endpoints. The 2026-05-19 promotion of this source
+> to `Experimental` (governing repo) has been **rolled back to `Deferred`**
+> as of 2026-05-26.
+>
+> **Do not use the endpoint paths below for any new implementation work.**
+>
+> Door explicitly open for future re-evaluation if NGA opens a public API
+> or if a working endpoint is later located. Re-evaluation requires a
+> fresh source-evaluation entry with documented evidence of a live,
+> accessible endpoint + Human approval at the framework's promotion gate.
+>
+> Governing-repo references:
+> - `MaritimeRouteSecurityDemo/docs/source-evaluations/source-evaluation_MaritimeRouteSecurityDashboard_NGA-MSI-Rollback-from-Experimental-to-Deferred_2026-05-26.md`
+> - `MaritimeRouteSecurityDemo/docs/technical-briefs/technical-brief_MaritimeRouteSecurityDashboard_NGA-MSI-Removal-and-Rollback_2026-05-26.md`
+> - `MaritimeRouteSecurityDemo/docs/decisions/decision-log_MaritimeRouteSecurityDashboard_NGA-MSI-Official-Maritime-Safety-Layer_2026-05-26.md` (Decision 12 — rollback)
+
+---
+
 # NGA Maritime Safety Information (MSI)
 
 U.S. National Geospatial-Intelligence Agency portal for global Maritime Safety Information — Anti-Shipping Activity Messages (ASAM), HYDROLANT/HYDROPAC/HYDROARC broadcast warnings, U.S. NAVAREA IV/XII messages, MODU positions, U.S. Coast Guard Local Notices to Mariners. Free public REST API.
