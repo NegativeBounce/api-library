@@ -378,14 +378,20 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
+| Airbus OneAtlas | Paid | API Key → Token | 2026-05-28 | [→](apis/satellite-imagery/airbus-oneatlas.md) |
 | BlackSky Spectra | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/satellite-imagery/blacksky-spectra.md) |
 | Capella Space | Enterprise | OAuth 2.0 (JWT) | 2026-05-07 | [→](apis/satellite-imagery/capella-space.md) |
 | Copernicus Data Space Ecosystem | Free | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/copernicus-data-space-ecosystem.md) |
+| EOS Data Analytics | Freemium | API Key | 2026-05-28 | [→](apis/satellite-imagery/eos-data-analytics.md) |
+| ICEYE | Enterprise | OAuth 2.0 | 2026-05-28 | [→](apis/satellite-imagery/iceye.md) |
 | NASA GIBS | Free | None | 2026-05-07 | [→](apis/satellite-imagery/nasa-gibs.md) |
 | Planet Labs | Paid | API Key / OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/planet-labs.md) |
+| Satellogic | Paid | OAuth 2.0 | 2026-05-28 | [→](apis/satellite-imagery/satellogic.md) |
 | Sentinel Hub | Freemium | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/sentinel-hub.md) |
+| SkyFi | Freemium | API Key | 2026-05-28 | [→](apis/satellite-imagery/skyfi.md) |
 | SkyWatch EarthCache | Paid | API Key | 2026-05-07 | [→](apis/satellite-imagery/skywatch-earthcache.md) |
 | UP42 | Paid | OAuth 2.0 | 2026-05-07 | [→](apis/satellite-imagery/up42.md) |
+| USGS M2M API (EarthExplorer) | Free | ERS Login Token | 2026-05-28 | [→](apis/satellite-imagery/usgs-m2m.md) |
 | Vantor Hub (Maxar) | Enterprise | OAuth 2.0 / API Key | 2026-05-07 | [→](apis/satellite-imagery/vantor-hub.md) |
 
 ## Satellite Tracking
