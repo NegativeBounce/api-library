@@ -23,6 +23,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Cellular Intelligence](#cellular-intelligence)
 - [Crime Intelligence](#crime-intelligence)
 - [Conflict Events](#conflict-events)
+- [CRM](#crm)
 - [Dark Vessel Detection](#dark-vessel-detection)
 - [Environmental](#environmental)
 - [Exposed Device Search](#exposed-device-search)
@@ -109,6 +110,18 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Factal | Paid | API Key / OAuth | 2026-05-09 | [→](apis/conflict-events/factal.md) |
 | GDELT | Free | None | 2026-05-09 | [→](apis/conflict-events/gdelt.md) |
 | Janes | Enterprise | API Key / OAuth | 2026-05-09 | [→](apis/conflict-events/janes.md) |
+
+## CRM
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Close | Paid | API Key / OAuth 2.0 | 2026-05-30 | [→](apis/crm/close.md) |
+| Copper | Paid | API Key / OAuth 2.0 | 2026-05-30 | [→](apis/crm/copper.md) |
+| Freshsales | Freemium | API Key | 2026-05-30 | [→](apis/crm/freshsales.md) |
+| HubSpot | Freemium | OAuth 2.0 / Private App | 2026-05-30 | [→](apis/crm/hubspot.md) |
+| Pipedrive | Paid | API Token / OAuth 2.0 | 2026-05-30 | [→](apis/crm/pipedrive.md) |
+| Salesforce | Freemium | OAuth 2.0 | 2026-05-30 | [→](apis/crm/salesforce.md) |
+| Zoho CRM | Freemium | OAuth 2.0 | 2026-05-30 | [→](apis/crm/zoho-crm.md) |
 
 ## Dark Vessel Detection
 
