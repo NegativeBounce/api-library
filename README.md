@@ -201,9 +201,13 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 |---|---|---|---|---|
 | AISStream.io | Free | API Key | 2026-05-09 | [→](apis/maritime-ais/aisstream.md) |
 | Datalastic | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/datalastic.md) |
-| FleetMon | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/fleetmon.md) |
-| MarineTraffic | Enterprise | API Key | 2026-05-09 | [→](apis/maritime-ais/marinetraffic.md) |
-| Spire Maritime | Enterprise | OAuth 2.0 / API Key | 2026-05-09 | [→](apis/maritime-ais/spire-maritime.md) |
+| FleetMon | Paid | API Key | 2026-06-11 | [→](apis/maritime-ais/fleetmon.md) |
+| Global Fishing Watch | Free | API Token | 2026-06-11 | [→](apis/maritime-ais/global-fishing-watch.md) |
+| MarineTraffic | Enterprise | API Key | 2026-06-11 | [→](apis/maritime-ais/marinetraffic.md) |
+| MyShipTracking | Freemium | API Key | 2026-06-11 | [→](apis/maritime-ais/myshiptracking.md) |
+| Searoutes | Freemium | API Key | 2026-06-11 | [→](apis/maritime-ais/searoutes.md) |
+| Spire Maritime | Enterprise | OAuth 2.0 / API Key | 2026-06-11 | [→](apis/maritime-ais/spire-maritime.md) |
+| VesselAPI | Freemium | API Key (Bearer) | 2026-06-11 | [→](apis/maritime-ais/vesselapi.md) |
 | VesselFinder | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/vesselfinder.md) |
 
 ## Maritime Safety Reports
