@@ -51,6 +51,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Solar Lunar](#solar-lunar)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
+- [Vessel Registry](#vessel-registry)
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
@@ -498,6 +499,18 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Stormglass Tide | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/stormglass-tide.md) |
 | UK Admiralty Tidal API | Freemium | Subscription Key | 2026-05-09 | [→](apis/tides-currents/uk-admiralty-tidal.md) |
 | WorldTides | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/worldtides.md) |
+
+## Vessel Registry
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Datalastic Vessels Ownership | Paid | API Key | 2026-06-11 | [→](apis/vessel-registry/datalastic-ownership.md) |
+| Equasis | Free | Account (free) | 2026-06-11 | [→](apis/vessel-registry/equasis.md) |
+| IMO GISIS Ship & Company Particulars | Free | IMO Web Account (free) | 2026-06-11 | [→](apis/vessel-registry/imo-gisis-ship-particulars.md) |
+| Lloyd's List Intelligence | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/vessel-registry/lloyds-list-intelligence.md) |
+| MarineTraffic Vessel Particulars & Ownership | Enterprise | API Key | 2026-06-11 | [→](apis/vessel-registry/marinetraffic-vessel-particulars.md) |
+| S&P Global Maritime Intelligence | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/vessel-registry/sp-global-maritime-intelligence.md) |
+| VesselFinder MasterData | Paid | API Key | 2026-06-11 | [→](apis/vessel-registry/vesselfinder-masterdata.md) |
 
 ## Wi-Fi Intelligence
 
