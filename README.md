@@ -52,6 +52,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
 - [Vessel Registry](#vessel-registry)
+- [War Risk Zones](#war-risk-zones)
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
 
 ---
@@ -511,6 +512,18 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | MarineTraffic Vessel Particulars & Ownership | Enterprise | API Key | 2026-06-11 | [→](apis/vessel-registry/marinetraffic-vessel-particulars.md) |
 | S&P Global Maritime Intelligence | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/vessel-registry/sp-global-maritime-intelligence.md) |
 | VesselFinder MasterData | Paid | API Key | 2026-06-11 | [→](apis/vessel-registry/vesselfinder-masterdata.md) |
+
+## War Risk Zones
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Concirrus | Enterprise | API Key / Platform | 2026-06-11 | [→](apis/war-risk-zones/concirrus.md) |
+| Data Docked (Maritime Insurance) | Freemium | API Key | 2026-06-11 | [→](apis/war-risk-zones/data-docked-insurance.md) |
+| IUA Joint War Committee Risk List | Free | None | 2026-06-11 | [→](apis/war-risk-zones/iua-jwc-risk-list.md) |
+| JWC Listed Areas (LMA/IUA) | Free | None | 2026-06-11 | [→](apis/war-risk-zones/jwc-listed-areas.md) |
+| JWLA.ai | Freemium | Account | 2026-06-11 | [→](apis/war-risk-zones/jwla-ai.md) |
+| Russell Group (ALPS Marine) | Enterprise | API Key / Platform | 2026-06-11 | [→](apis/war-risk-zones/russell-group.md) |
+| Vessel Protect | Enterprise | N/A (MGA) | 2026-06-11 | [→](apis/war-risk-zones/vessel-protect.md) |
 
 ## Wi-Fi Intelligence
 
