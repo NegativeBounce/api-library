@@ -36,6 +36,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Navigational Warnings](#navigational-warnings)
 - [News](#news)
 - [Object Detection](#object-detection)
+- [Port Congestion](#port-congestion)
 - [Port OT Security](#port-ot-security)
 - [Port Physical Security](#port-physical-security)
 - [Port State Control](#port-state-control)
@@ -296,6 +297,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Google Cloud Vision API | Freemium | OAuth 2.0 | 2026-05-13 | [→](apis/object-detection/google-cloud-vision.md) |
 | Hugging Face Inference API | Freemium | Bearer token | 2026-05-13 | [→](apis/object-detection/hugging-face-inference.md) |
 | Roboflow | Freemium | API Key | 2026-05-13 | [→](apis/object-detection/roboflow.md) |
+
+## Port Congestion
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| GoComet Port Congestion | Paid | API Key | 2026-06-11 | [→](apis/port-congestion/gocomet-port-congestion.md) |
+| IMF PortWatch | Free | None | 2026-06-11 | [→](apis/port-congestion/imf-portwatch.md) |
+| MarineTraffic Port Congestion | Enterprise | API Key | 2026-06-11 | [→](apis/port-congestion/marinetraffic-port-congestion.md) |
+| Portcast Port Congestion | Paid | API Key | 2026-06-11 | [→](apis/port-congestion/portcast-port-congestion.md) |
+| Sinay Port Congestion | Freemium | API Key | 2026-06-11 | [→](apis/port-congestion/sinay-port-congestion.md) |
+| Spire Port Events | Enterprise | OAuth 2.0 / API Key | 2026-06-11 | [→](apis/port-congestion/spire-port-events.md) |
 
 ## Port OT Security
 
