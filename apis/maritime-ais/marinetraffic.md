@@ -4,22 +4,22 @@ Global AIS vessel tracking platform (now part of Kpler) offering real-time vesse
 
 **Tier:** Enterprise
 **Auth:** API Key (query parameter)
-**Last researched:** 2026-05-09
+**Last researched:** 2026-06-11
 
 ## Use cases
 
-- Real-time tracking of vessels transiting the Strait of Malacca via Vessel Position services (PS01/PS02).
-- Port-call alerts for Singapore, Port Klang, Tanjung Pelepas, and Belawan to confirm transit and dwell times.
-- Voyage forecasts (predicted ETA/destination) for vessels approaching the Strait, useful for handover planning.
-- Historical AIS replay for incident investigation (e.g., reconstructing a piracy event timeline).
-- Density-map services for hot-spot analysis of fishing/military activity around the Strait.
+- Real-time tracking of vessels via Vessel Position services (PS01/PS02) across global shipping lanes and chokepoints.
+- Port-call alerts (e.g. Singapore, Port Klang, Tanjung Pelepas, Rotterdam, Fujairah) to confirm transit and dwell times.
+- Voyage forecasts (predicted ETA/destination) for vessels approaching a region, useful for handover planning.
+- Historical AIS replay for incident investigation (e.g. reconstructing a piracy or collision event timeline).
+- Density-map services for hot-spot analysis of fishing/military/commercial activity.
 
 ## Pricing
 
 - **Free tier:** None for the API. The marinetraffic.com web map is free for casual use only.
-- **Paid tiers:** None — credit-based pricing was discontinued in January 2025.
-- **Enterprise:** Subscription-only, custom-quoted by Kpler sales. Pricing depends on services selected (PS01, PS02, VI01, VI03, EV01, etc.) and request volume.
-- **Notes:** Acquired by Kpler in March 2023; product roadmap and pricing have shifted toward enterprise contracts only.
+- **Paid tiers:** None — credit-based/self-service pricing was discontinued (enterprise-only since the Kpler consolidation).
+- **Enterprise:** Subscription-only, custom-quoted by Kpler sales. Pricing depends on services selected (PS01, PS02, VI01, EV01, VD01, etc.) and request volume.
+- **Notes:** Acquired by Kpler in March 2023; pricing and roadmap have shifted toward enterprise contracts only. Users must now contact sales.
 
 ## Authentication
 
@@ -58,7 +58,7 @@ Per-service throttling defined in the customer's contract (typically expressed a
 
 ## Notes
 
-- Brand: now operates under Kpler, but the product is still marketed as "MarineTraffic." Existing API service codes (PS01, etc.) remain unchanged.
+- ⚠️ **Kpler consolidation:** MarineTraffic is one of three maritime data providers Kpler brought under one umbrella — alongside **FleetMon** (coordinated deal) and **Spire Maritime** (satellite AIS constellation). Credit-based pricing was discontinued; access is now enterprise-subscription only via Kpler sales. The product is still marketed as "MarineTraffic" and existing service codes (PS01, etc.) remain unchanged.
 - The free public web at marinetraffic.com is a marketing surface — not a substitute for the API.
-- For higher-resolution / lower-latency data, Kpler also sells Spire Maritime (cataloged separately) as a complementary feed.
-- For the Strait of Malacca specifically: heavy AIS receiver density and good port-call coverage make this one of the strongest commercial feeds in the region.
+- For blue-water / lower-latency satellite data, Kpler also sells Spire Maritime (`maritime-ais/spire-maritime.md`) as a complementary feed; vessel ownership/particulars at enterprise grade are in `vessel-registry/marinetraffic-vessel-particulars.md`.
+- Strong AIS receiver density and port-call coverage make it one of the strongest commercial terrestrial feeds in busy regions; the parent commodity-flows product is `trade-flows/kpler.md`.
