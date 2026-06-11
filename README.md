@@ -392,14 +392,20 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Region | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
 | Arabian Sea, Persian Gulf & Strait of Hormuz | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/arabian-sea-persian-gulf-strait-of-hormuz.md) |
+| Bab el Mandeb & Southern Red Sea | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/bab-el-mandeb-southern-red-sea.md) |
+| Baltic Sea & Gulf of Finland | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/baltic-sea-gulf-of-finland.md) |
+| Black Sea & Sea of Azov | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/black-sea-azov.md) |
 | East Africa & Indian Ocean | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/east-africa-indian-ocean.md) |
 | English Channel & North Sea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/english-channel-north-sea.md) |
 | Horn of Africa & Gulf of Aden | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/horn-of-africa-gulf-of-aden.md) |
 | Mediterranean & Strait of Gibraltar | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/mediterranean-strait-of-gibraltar.md) |
+| Mozambique Channel | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/mozambique-channel.md) |
 | Panama Canal & Caribbean | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/panama-canal-caribbean.md) |
 | Red Sea & Suez Canal | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/red-sea-suez-canal.md) |
+| Sea of Japan & East China Sea | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/sea-of-japan-east-china-sea.md) |
 | South China Sea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/south-china-sea.md) |
 | Southeast Asia & Strait of Malacca | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/southeast-asia-strait-of-malacca.md) |
+| Sulu-Celebes Sea | Free | None | 2026-06-11 | [→](apis/regional-security-feeds/sulu-celebes-sea.md) |
 | West Africa & Gulf of Guinea | Free | None | 2026-05-13 | [→](apis/regional-security-feeds/west-africa-gulf-of-guinea.md) |
 
 ## Sanctions
