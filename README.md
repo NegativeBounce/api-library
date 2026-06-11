@@ -20,6 +20,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 
 - [Academic Publications](#academic-publications)
 - [Bluetooth Intelligence](#bluetooth-intelligence)
+- [Cargo Crime](#cargo-crime)
 - [Cellular Intelligence](#cellular-intelligence)
 - [Crime Intelligence](#crime-intelligence)
 - [Conflict Events](#conflict-events)
@@ -31,6 +32,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
 - [Maritime AIS](#maritime-ais)
+- [Maritime Media](#maritime-media)
 - [Maritime Safety Reports](#maritime-safety-reports)
 - [Maritime Security](#maritime-security)
 - [Navigational Warnings](#navigational-warnings)
@@ -83,6 +85,17 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Inpixon RTLS | Enterprise | API Key | 2026-05-09 | [→](apis/bluetooth-intelligence/inpixon.md) |
 | Kontakt.io (Kio Cloud) | Paid | API Key (Bearer) | 2026-05-09 | [→](apis/bluetooth-intelligence/kontakt-io.md) |
 | Quuppa Intelligent Locating System | Enterprise | API Key (token) | 2026-05-09 | [→](apis/bluetooth-intelligence/quuppa.md) |
+
+## Cargo Crime
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| BSI Connect SCREEN | Enterprise | Login (platform) | 2026-06-11 | [→](apis/cargo-crime/bsi-connect-screen.md) |
+| Overhaul | Enterprise | API Key / Platform | 2026-06-11 | [→](apis/cargo-crime/overhaul.md) |
+| TAPA Incident Information Service (TIS) | Enterprise | Member login | 2026-06-11 | [→](apis/cargo-crime/tapa-tis.md) |
+| Tive | Enterprise | API Key / Platform | 2026-06-11 | [→](apis/cargo-crime/tive.md) |
+| TT Club | Free | None / Member | 2026-06-11 | [→](apis/cargo-crime/tt-club.md) |
+| Verisk CargoNet | Enterprise | Login (platform) | 2026-06-11 | [→](apis/cargo-crime/verisk-cargonet.md) |
 
 ## Cellular Intelligence
 
@@ -209,6 +222,24 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Spire Maritime | Enterprise | OAuth 2.0 / API Key | 2026-06-11 | [→](apis/maritime-ais/spire-maritime.md) |
 | VesselAPI | Freemium | API Key (Bearer) | 2026-06-11 | [→](apis/maritime-ais/vesselapi.md) |
 | VesselFinder | Paid | API Key | 2026-05-09 | [→](apis/maritime-ais/vesselfinder.md) |
+
+## Maritime Media
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| CIMSEC | Free | None | 2026-06-11 | [→](apis/maritime-media/cimsec.md) |
+| gCaptain | Free | None | 2026-06-11 | [→](apis/maritime-media/gcaptain.md) |
+| Lloyd's List | Freemium | None / Subscription | 2026-06-11 | [→](apis/maritime-media/lloyds-list.md) |
+| MarineLink / Maritime Reporter | Free | None | 2026-06-11 | [→](apis/maritime-media/marinelink.md) |
+| Naval News | Free | None | 2026-06-11 | [→](apis/maritime-media/naval-news.md) |
+| Riviera Maritime Media | Free | None / Registration | 2026-06-11 | [→](apis/maritime-media/riviera.md) |
+| Safety4Sea | Free | None | 2026-06-11 | [→](apis/maritime-media/safety4sea.md) |
+| Splash 247 | Free | None | 2026-06-11 | [→](apis/maritime-media/splash247.md) |
+| The Loadstar | Free | None | 2026-06-11 | [→](apis/maritime-media/the-loadstar.md) |
+| The Maritime Executive | Free | None | 2026-06-11 | [→](apis/maritime-media/the-maritime-executive.md) |
+| The Shipping Podcast | Free | None | 2026-06-11 | [→](apis/maritime-media/shipping-podcast.md) |
+| TradeWinds | Freemium | None / Subscription | 2026-06-11 | [→](apis/maritime-media/tradewinds.md) |
+| USNI News | Freemium | None / Membership | 2026-06-11 | [→](apis/maritime-media/usni-news.md) |
 
 ## Maritime Safety Reports
 
