@@ -31,6 +31,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Geopolitical Risk](#geopolitical-risk)
 - [GNSS Interference](#gnss-interference)
 - [Marine Weather](#marine-weather)
+- [Market Intelligence](#market-intelligence)
 - [Maritime AIS](#maritime-ais)
 - [Maritime Media](#maritime-media)
 - [Maritime Safety Reports](#maritime-safety-reports)
@@ -207,6 +208,19 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Tomorrow.io | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/tomorrow-io.md) |
 | Visual Crossing | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/visual-crossing.md) |
 | Windy API | Freemium | API Key | 2026-05-09 | [→](apis/marine-weather/windy-api.md) |
+
+## Market Intelligence
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Alpha Vantage | Freemium | API Key | 2026-06-11 | [→](apis/market-intelligence/alpha-vantage.md) |
+| Commodities-API | Freemium | API Key | 2026-06-11 | [→](apis/market-intelligence/commodities-api.md) |
+| Drewry | Freemium | Registration / Subscription | 2026-06-11 | [→](apis/market-intelligence/drewry.md) |
+| EIA | Free | API Key (free) | 2026-06-11 | [→](apis/market-intelligence/eia.md) |
+| FourKites | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/market-intelligence/fourkites.md) |
+| IMF Data | Free | None | 2026-06-11 | [→](apis/market-intelligence/imf-data.md) |
+| Project44 | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/market-intelligence/project44.md) |
+| World Bank Data | Free | None | 2026-06-11 | [→](apis/market-intelligence/world-bank-data.md) |
 
 ## Maritime AIS
 
