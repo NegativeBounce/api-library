@@ -1,14 +1,14 @@
 # FleetMon
 
-Hamburg-based AIS provider offering vessel tracking, ETA forecasts, fleet management, and vessel database access. Mix of self-service (Explorer) and API products targeted at logistics, port operations, and freight forwarders.
+Hamburg-based AIS provider (now part of Kpler) offering vessel tracking, ETA forecasts, fleet management, and vessel database access. Mix of self-service (Explorer) and API products targeted at logistics, port operations, and freight forwarders.
 
 **Tier:** Paid
 **Auth:** API Key (HTTP basic / username + key)
-**Last researched:** 2026-05-09
+**Last researched:** 2026-06-11
 
 ## Use cases
 
-- ETA forecasting for vessels approaching the Strait — FleetMon's "five next ports" AI model is differentiated.
+- ETA forecasting for vessels approaching a port/region — FleetMon's "next five ports" AI model is differentiated.
 - Tracking a fleet via "MyFleet" — push notifications for state changes (port-call, area enter/exit).
 - Vessel database lookups via Vessel ID with extended particulars (dimensions, ownership, callsign).
 - Last position queries within a customizable radius around an asset (rig, port, anchorage).
@@ -19,7 +19,7 @@ Hamburg-based AIS provider offering vessel tracking, ETA forecasts, fleet manage
 - **Free tier:** None for APIs. Free demo of FleetMon Explorer interactive map.
 - **Paid tiers:** FleetMon Explorer subscription starts at €54/month. API pricing is **not publicly listed** — request a quote.
 - **Enterprise:** Custom contracts for high-volume ETA / fleet APIs.
-- **Notes:** Pricing model historically credit/quota-based per API method, but tiers are negotiated rather than self-service.
+- **Notes:** Pricing model historically credit/quota-based per API method, but tiers are negotiated rather than self-service. Now under Kpler's commercial umbrella (see Kpler consolidation note below).
 
 ## Authentication
 
@@ -61,6 +61,8 @@ Not publicly documented. Defined per contract / per API method.
 
 ## Notes
 
-- FleetMon's strength is the **ETA-forecast AI** (next-five-ports) — useful for predictive risk analysis on vessels approaching the Strait.
-- Coverage is solid in European/Asian shipping lanes; the Strait sits in their busy-traffic core.
-- Procurement cycle is shorter than MarineTraffic/Kpler but longer than Datalastic's self-service flow.
+- ⚠️ **Kpler consolidation:** FleetMon was acquired by Kpler in a coordinated deal alongside **MarineTraffic** (March 2023) and **Spire Maritime** — combining three maritime data providers under one umbrella. FleetMon currently retains its own brand, Explorer product, developer portal, and the €54/mo entry tier, but commercial terms and roadmap now sit within Kpler. Re-verify current pricing/portal status before committing.
+- FleetMon's standout is the **ETA-forecast AI** (next-five-ports) — useful for predictive risk analysis on vessels approaching a chokepoint.
+- Coverage is solid in European/Asian shipping lanes.
+- Procurement cycle is shorter than MarineTraffic/Kpler enterprise but longer than Datalastic's self-service flow.
+- Cross-reference: sibling Kpler-owned feeds MarineTraffic (`maritime-ais/marinetraffic.md`) and Spire Maritime (`maritime-ais/spire-maritime.md`); parent commodity-flows product `trade-flows/kpler.md`.
