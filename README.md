@@ -51,6 +51,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Solar Lunar](#solar-lunar)
 - [Sports Betting](#sports-betting)
 - [Tides & Currents](#tides--currents)
+- [Trade Flows](#trade-flows)
 - [Vessel Registry](#vessel-registry)
 - [War Risk Zones](#war-risk-zones)
 - [Wi-Fi Intelligence](#wi-fi-intelligence)
@@ -500,6 +501,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Stormglass Tide | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/stormglass-tide.md) |
 | UK Admiralty Tidal API | Freemium | Subscription Key | 2026-05-09 | [→](apis/tides-currents/uk-admiralty-tidal.md) |
 | WorldTides | Freemium | API Key | 2026-05-09 | [→](apis/tides-currents/worldtides.md) |
+
+## Trade Flows
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Baltic Exchange | Enterprise | License / API | 2026-06-11 | [→](apis/trade-flows/baltic-exchange.md) |
+| Freightos Baltic Index (FBX) | Freemium | API Key | 2026-06-11 | [→](apis/trade-flows/freightos-baltic-index.md) |
+| Kpler | Enterprise | API Key / OAuth | 2026-06-11 | [→](apis/trade-flows/kpler.md) |
+| Vortexa | Enterprise | API Key | 2026-06-11 | [→](apis/trade-flows/vortexa.md) |
+| Xeneta | Enterprise | API Key | 2026-06-11 | [→](apis/trade-flows/xeneta.md) |
 
 ## Vessel Registry
 
