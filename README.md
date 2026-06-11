@@ -233,10 +233,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 |---|---|---|---|---|
 | Ambrey | Enterprise | Login (portal) | 2026-05-09 | [→](apis/maritime-security/ambrey.md) |
 | Dryad Global | Enterprise | API Key / Login | 2026-05-09 | [→](apis/maritime-security/dryad-global.md) |
+| EOS Risk Group | Enterprise | Login (portal) | 2026-06-11 | [→](apis/maritime-security/eos-risk-group.md) |
+| Gray Page | Enterprise | N/A (advisory) | 2026-06-11 | [→](apis/maritime-security/gray-page.md) |
+| IFC Singapore | Free | None / Partner | 2026-06-11 | [→](apis/maritime-security/ifc-singapore.md) |
 | IMB Piracy Reporting Centre | Paid | None / Subscription | 2026-05-09 | [→](apis/maritime-security/imb-piracy-reporting-centre.md) |
 | MAST | Enterprise | N/A (advisory) | 2026-05-09 | [→](apis/maritime-security/mast.md) |
+| MDAT-GoG | Free | None | 2026-06-11 | [→](apis/maritime-security/mdat-gog.md) |
+| Neptune P2P Group | Freemium | Account (portal) | 2026-06-11 | [→](apis/maritime-security/neptune-p2p-group.md) |
 | ReCAAP ISC | Free | None | 2026-05-09 | [→](apis/maritime-security/recaap-isc.md) |
 | Risk Intelligence | Enterprise | Login (portal) | 2026-05-09 | [→](apis/maritime-security/risk-intelligence.md) |
+| UKMTO | Free | None | 2026-06-11 | [→](apis/maritime-security/ukmto.md) |
 
 ## Navigational Warnings
 
