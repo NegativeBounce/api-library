@@ -11,7 +11,7 @@ Only then proceed with the user's request.
 # Governance
 
 ```
-governance-version: 2026-05-07
+governance-version: 2026-06-11
 ```
 
 > **Instructions for AI agents (ChatGPT, Claude Code, OpenAI Codex, and any other AI agent or coding assistant):** You are reading the canonical rules document for this repository. Read, analyze, and assess this entire file, then read `README.md`, before doing anything in this repository.
@@ -65,6 +65,8 @@ api-library/
 - Kebab-case (hyphens, not underscores or spaces).
 - Categories are usually singular: `weather`, `payment`, `sports-stats`, `geocoding`. Avoid `weathers`, `payments`.
 - API slugs are the slugified product name: `stripe.md`, `openweathermap.md`, `the-sports-db.md`.
+
+**Reference files (non-entry).** A category folder may contain `_`-prefixed Markdown files that are *not* API entries — supporting references such as playbooks, methodology notes, or cross-source mappings (e.g. `_correlation-playbook.md`). These are exempt from the section 6 entry template and from the README catalog rows in section 7. They are not counted as cataloged APIs and do not require a `Last researched` staleness date, though dating them with a `Last reviewed` line is encouraged. The underscore prefix marks them as non-entries so they sort apart from `<api-slug>.md` files and are not "corrected" for template non-compliance. Reference files still follow the approval-before-commit rule (section 3.2) and the commit-message format (section 8).
 
 ---
 
@@ -163,13 +165,14 @@ After all writes succeed, give the user a summary with the commit URLs so they c
 - Proposing new categories (with user approval).
 - Refreshing stale entries (with user approval).
 - Marking entries as discontinued (with user approval).
+- Adding `_`-prefixed reference files per section 2 (with user approval).
 
 ### Forbidden
 - Committing without explicit user approval.
 - Skipping the catalog check in Step 2.
 - Inventing categories without proposing them first.
 - Filling in fields with guessed data — use `Not publicly documented` instead.
-- Editing GOVERNANCE.md, README structure, or the entry template without explicit user instruction to do so.
+- Editing GOVERNANCE.md, README structure, or the entry template without explicit user instruction to do so. (Note: `_`-prefixed reference files per section 2 are not entries and are exempt from the section 6 template — do not flag them as non-compliant.)
 - Using PR or branch workflows. This repo commits direct to `main`.
 - Bulk-refreshing entries the user didn't ask about. Stale-entry flagging is per-category, scoped to the user's current request.
 
@@ -242,6 +245,8 @@ curl -H "Authorization: Bearer $API_KEY" \
 
 Required fields: API Name, Tier, Auth, Last researched, Use cases, Pricing, Authentication, Endpoints, Example call, Rate limits, Documentation. The SDKs and Notes sections may be omitted only if both are genuinely empty.
 
+This template applies to API entries only. `_`-prefixed reference files (section 2) are exempt.
+
 ---
 
 ## 7. README catalog format
@@ -283,6 +288,7 @@ See `GOVERNANCE.md` for contribution rules.
 - Within a category table, rows are alphabetical by API name.
 - The `Last Updated` column matches the `Last researched` date inside the linked file.
 - New category sections are inserted alphabetically, not appended at the end.
+- `_`-prefixed reference files (section 2) do **not** get catalog rows. They live in the category folder but are not listed in the README tables.
 
 ---
 
@@ -301,6 +307,8 @@ Format: `[<agent-tag>] <action>: <detail>`
 - `Add API: <Name> (<category>)` — new entry
 - `Refresh API: <Name> (<category>)` — update existing entry
 - `Remove API: <Name> (<category>)` — delete entry (deprecated/discontinued)
+- `Add reference: <description>` — new `_`-prefixed reference file (section 2)
+- `Update reference: <description>` — update a reference file
 - `Update catalog: <description>` — README-only change
 - `Update governance: <description>` — GOVERNANCE.md change
 - `Bootstrap repo: <description>` — initial setup
@@ -311,6 +319,7 @@ Format: `[<agent-tag>] <action>: <detail>`
 [chatgpt] Refresh API: SportsRadar (sports-stats)
 [codex] Update catalog: alphabetize sports-stats table
 [human] Update governance: clarify staleness rule
+[claude-skill] Add reference: market-intelligence correlation playbook
 ```
 
 ---
