@@ -158,10 +158,13 @@ Network-served drone position/telemetry feeds (Remote ID, UTM, crowd-sourced) �
 
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
+| Airspace Link (AirHub) | Freemium | API Key | 2026-06-17 | [→](apis/drone-tracking/airspace-link.md) |
 | Aloft | Freemium | API Key / Token | 2026-06-17 | [→](apis/drone-tracking/aloft.md) |
 | Altitude Angel GuardianUTM | Freemium | OAuth 2.0 | 2026-06-17 | [→](apis/drone-tracking/altitude-angel.md) |
 | DroneAware Network | Free | Account (free) | 2026-06-17 | [→](apis/drone-tracking/droneaware.md) |
 | Dronetag Cloud Platform | Freemium | API Token (Bearer) | 2026-06-17 | [→](apis/drone-tracking/dronetag.md) |
+| SafeSky | Freemium | API Key + HMAC | 2026-06-17 | [→](apis/drone-tracking/safesky.md) |
+| Wing OpenSky | Freemium | API credentials (partner) | 2026-06-17 | [→](apis/drone-tracking/wing-opensky.md) |
 
 ## Environmental
 
