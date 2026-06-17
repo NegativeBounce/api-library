@@ -21,6 +21,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Academic Publications](#academic-publications)
 - [Bluetooth Intelligence](#bluetooth-intelligence)
 - [Cargo Crime](#cargo-crime)
+- [Cargo Manifest](#cargo-manifest)
 - [Cellular Intelligence](#cellular-intelligence)
 - [Crime Intelligence](#crime-intelligence)
 - [Conflict Events](#conflict-events)
@@ -99,6 +100,19 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Tive | Enterprise | API Key / Platform | 2026-06-11 | [→](apis/cargo-crime/tive.md) |
 | TT Club | Free | None / Member | 2026-06-11 | [→](apis/cargo-crime/tt-club.md) |
 | Verisk CargoNet | Enterprise | Login (platform) | 2026-06-11 | [→](apis/cargo-crime/verisk-cargonet.md) |
+
+## Cargo Manifest
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Descartes Datamyne | Enterprise | Login (platform) | 2026-06-17 | [→](apis/cargo-manifest/descartes-datamyne.md) |
+| ImportGenius | Paid | Login / API (plan) | 2026-06-17 | [→](apis/cargo-manifest/importgenius.md) |
+| ImportYeti | Freemium | Account (free) | 2026-06-17 | [→](apis/cargo-manifest/importyeti.md) |
+| JSONCargo | Paid | API Key | 2026-06-17 | [→](apis/cargo-manifest/jsoncargo.md) |
+| Kpler Cargo / Flows | Enterprise | API Key / OAuth | 2026-06-17 | [→](apis/cargo-manifest/kpler-cargo.md) |
+| Kpler Container Tracking (MarineTraffic) | Enterprise | API Key | 2026-06-17 | [→](apis/cargo-manifest/kpler-container-tracking.md) |
+| Trademo | Paid | API Key | 2026-06-17 | [→](apis/cargo-manifest/trademo.md) |
+| Volza | Paid | Login / API (enterprise) | 2026-06-17 | [→](apis/cargo-manifest/volza.md) |
 
 ## Cellular Intelligence
 
