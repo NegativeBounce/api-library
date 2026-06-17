@@ -26,6 +26,7 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 - [Conflict Events](#conflict-events)
 - [CRM](#crm)
 - [Dark Vessel Detection](#dark-vessel-detection)
+- [Drone Detection](#drone-detection)
 - [Drone Tracking](#drone-tracking)
 - [Environmental](#environmental)
 - [Exposed Device Search](#exposed-device-search)
@@ -151,6 +152,16 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | Skylight | Free | Login (account) | 2026-05-09 | [→](apis/dark-vessel-detection/skylight.md) |
 | SynMax Theia | Paid | API Key | 2026-05-09 | [→](apis/dark-vessel-detection/synmax-theia.md) |
 | Windward | Enterprise | Bearer token | 2026-05-09 | [→](apis/dark-vessel-detection/windward.md) |
+
+## Drone Detection
+
+Sensor-based counter-UAS (C-UAS) systems you deploy (RF, radar, optical, acoustic, protocol-decode) that detect *non-cooperative* drones — including non-broadcasting and hostile UAS. The API integrates *your* installation's detections into other systems (C2, TAK, SAPIENT, SIEM); these are not no-sensor feeds. Pricing is enterprise/quote-based and API access is customer-provisioned. See `drone-tracking` for cooperative, network-served feeds.
+
+| API | Tier | Auth | Last Updated | Details |
+|---|---|---|---|---|
+| Dedrone by Axon | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/dedrone.md) |
+| DroneShield (DroneSentry-C2) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/droneshield.md) |
+| Sentrycs | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/sentrycs.md) |
 
 ## Drone Tracking
 
