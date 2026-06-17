@@ -160,8 +160,12 @@ Sensor-based counter-UAS (C-UAS) systems you deploy (RF, radar, optical, acousti
 | API | Tier | Auth | Last Updated | Details |
 |---|---|---|---|---|
 | Dedrone by Axon | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/dedrone.md) |
+| D-Fend Solutions (EnforceAir) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/d-fend.md) |
 | DroneShield (DroneSentry-C2) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/droneshield.md) |
+| Fortem Technologies (SkyDome) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/fortem.md) |
+| Robin Radar Systems (IRIS) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/robin-radar.md) |
 | Sentrycs | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/sentrycs.md) |
+| Squarehead (Discovair G2+) | Enterprise | Customer-provisioned | 2026-06-17 | [→](apis/drone-detection/squarehead.md) |
 
 ## Drone Tracking
 
