@@ -111,8 +111,11 @@ See [`GOVERNANCE.md`](GOVERNANCE.md) for contribution rules.
 | JSONCargo | Paid | API Key | 2026-06-17 | [→](apis/cargo-manifest/jsoncargo.md) |
 | Kpler Cargo / Flows | Enterprise | API Key / OAuth | 2026-06-17 | [→](apis/cargo-manifest/kpler-cargo.md) |
 | Kpler Container Tracking (MarineTraffic) | Enterprise | API Key | 2026-06-17 | [→](apis/cargo-manifest/kpler-container-tracking.md) |
+| Panjiva (S&P Global) | Enterprise | Login / API / Snowflake | 2026-06-17 | [→](apis/cargo-manifest/panjiva.md) |
+| PIERS (S&P Global) | Enterprise | Login / Data Lake / feed | 2026-06-17 | [→](apis/cargo-manifest/piers.md) |
 | Trademo | Paid | API Key | 2026-06-17 | [→](apis/cargo-manifest/trademo.md) |
 | Volza | Paid | Login / API (enterprise) | 2026-06-17 | [→](apis/cargo-manifest/volza.md) |
+| Vortexa | Enterprise | API Key / SDK | 2026-06-17 | [→](apis/cargo-manifest/vortexa.md) |
 
 ## Cellular Intelligence
 
